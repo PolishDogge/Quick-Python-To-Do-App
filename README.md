@@ -22,3 +22,5 @@ Run the application:
 Click on Add to create a new task. Enter a title and description in the popup window and click Save.
 
 Click on Remove to delete an existing task. Choose the task to delete from the list displayed in the popup window.
+
+Note; The app might require admin privilages to run correctly.
